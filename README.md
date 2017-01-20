@@ -9,6 +9,7 @@
 - npm install
 - bower install
 - grunt serve (to see in browser)
+- grunt deploy (to make dist on github.io pages)
 
 # Adding slides
 - yo reveal:slide "Slide Title" --markdown

@@ -1,5 +1,5 @@
 {
-  "name": "knot-x-technologies-behind-vert-x",
+  "name": "technologies-behind-knot-x",
   "version": "0.0.0",
   "dependencies": {
     "reveal.js": "~3.3.0",

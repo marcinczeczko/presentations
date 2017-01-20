@@ -81,16 +81,13 @@ module.exports = (grunt) ->
                         'css/*.css'
                         'resources/**'
                     ]
-                    dest: 'dist/'
+                    dest: '<%= pkg.dist.dir %>/'
                 },{
                     expand: true
                     src: ['index.html']
-                    dest: 'dist/'
+                    dest: '<%= pkg.dist.dir %>/'
                     filter: 'isFile'
                 }]
-
-        
-
 
     # Load all grunt tasks.
     require('load-grunt-tasks')(grunt)
@@ -133,6 +130,11 @@ module.exports = (grunt) ->
             'copy'
         ]
 
+    
+    grunt.registerTask 'deploy',
+        'Deploy to Github Pages', [
+            'dist'
+        ]
     
 
     # Define default task.
