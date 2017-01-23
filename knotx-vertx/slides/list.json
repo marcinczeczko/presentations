@@ -1,63 +1,136 @@
 [
-    "index.md",
-    {
-        "filename": "what-is-vert-x.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "why-not-node-js.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "vert-x-features.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "reactive.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "polyglot.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "vert-x-how-it-works.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "scaling.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "event-bus.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "performance.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    {
-        "filename": "demo.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+  "index.md",
+  "what-is-vertx.md",
+  {
+    "attr": {
+      "data-background": "http://www.motivateplay.com/wp-content/uploads/2013/04/motivation.jpg"
     }
+  },
+  {
+    "filename": "toolkit.md",
+    "attr": {
+      "data-background": "http://images.brickset.com/colours/26.jpg"
+    }
+  },
+  {
+    "filename": "reactive.md",
+    "attr": {
+
+    }
+  },
+  [
+    {
+      "filename": "polyglot.md",
+      "attr": {
+      }
+    },
+    {
+      "filename": "polyglot/java.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/groovy.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/ruby.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/js.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/scala.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/ceylon.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/kotlin.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/typescript.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/python.md",
+      "attr": {
+        "data-transition": "slide-in"
+      }
+    },
+    {
+      "filename": "polyglot/and-more.md",
+      "attr": {
+        "data-transition": "fade-in",
+        "data-background": "http://i.imgur.com/UrY0HZM.jpg"
+      }
+    }
+  ],
+  {
+    "filename": "distributed.md",
+    "attr": {
+      "data-background": "http://www.xinhuanet.com/energy/titlepic/111647/1116475867_1441592409383_title0h.jpg"
+    }
+  },
+  {
+    "filename": "fast.md",
+    "attr": {
+
+    }
+  },
+  {
+    "filename": "multi-reactor-pattern.md",
+    "attr": {
+    }
+  },
+  {
+    "filename": "development-model.md",
+    "attr": {
+    }
+  },
+  {
+    "filename": "event-bus.md",
+    "attr": {
+    }
+  },
+  {
+    "filename": "verticle.md",
+    "attr": {
+    }
+  },
+  [
+    {
+      "filename": "what-you-can-do.md",
+      "attr": {
+      }
+    },
+    "what-you-can-do/vert-x-web.md",
+    "what-you-can-do/other.md"
+  ],
+  {
+    "filename": "microservices-demo.md",
+    "attr": {
+    }
+  },
+  "thank-you.md"
 ]
