@@ -1,5 +1,6 @@
 ##  Event Bus
 
+- nervous system of vert.x
 - messages are received using Handlers and delivered using the event loops - locally
 - each vertx instance has access to the event bus
 - event bus allows distributed communicatiion

@@ -98,16 +98,29 @@
 
     }
   },
-  {
-    "filename": "multi-reactor-pattern.md",
-    "attr": {
+  [
+    {
+      "filename": "reactor-pattern.md",
+      "attr": {
+        "data-background": "https://img-new.cgtrader.com/items/181767/5a5e1907fa/avengers-movie-reactor-3d-model-max-obj-fbx.png"
+      }
+    },
+    {
+      "filename": "reactor-pattern/reactor-pattern.md",
+      "attr": {
+      }
+    },
+    {
+      "filename": "reactor-pattern/multi-reactor-pattern.md",
+      "attr": {
+      }
+    },
+    {
+      "filename": "reactor-pattern/development-model.md",
+      "attr": {
+      }
     }
-  },
-  {
-    "filename": "development-model.md",
-    "attr": {
-    }
-  },
+  ],
   {
     "filename": "event-bus.md",
     "attr": {

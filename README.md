@@ -4,6 +4,7 @@
 - grunt
 - yo
 - generator-reveal
+- test
 
 # How to
 - npm install

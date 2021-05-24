@@ -17,8 +17,8 @@
 
 
 // Include theme-specific fonts
-@import url(https://s3.amazonaws.com/static.slid.es/fonts/league/league_gothic.css);
-@import url(https://s3.amazonaws.com/static.slid.es/fonts/lato/lato.css);
+@import url(../css/fonts/league/league_gothic.css);
+@import url(../css/fonts/lato/lato.css);
 
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
 $backgroundColor: radial-gradient(circle farthest-corner at center, rgba(125,126,125,1) 0%, rgba(14,14,14,1) 100%);
